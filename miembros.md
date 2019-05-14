@@ -1,5 +1,5 @@
 # Miembros
-* el grone
+* el gron
 * Black panther
 * Black Widow
 * Capitán America de nuevo
